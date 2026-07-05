@@ -1,4 +1,4 @@
-Chance constrained programs with Gaussian mixture models
+Chance constrained programs with Gaussian mixture models. IISE Transactions, 54(12), 1117–1130. https://doi.org/10.1080/24725854.2021.2001608
 
 Authors: Zhaolin Hu, Wenjie Sun, and Shushang Zhu
 
